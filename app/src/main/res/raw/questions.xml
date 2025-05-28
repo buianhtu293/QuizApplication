@@ -1,0 +1,402 @@
+<questions>
+    <question>
+        <title>Từ nào sau đây là từ ghép?</title>
+        <a>cây cối</a>
+        <b>cây cam</b>
+        <c>cây bút</c>
+        <d>cây to</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title>Trong các từ sau, từ nào là từ láy?</title>
+        <a>xe đạp</a>
+        <b>xinh xắn</b>
+        <c>con mèo</c>
+        <d>hoa hồng</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title>Từ “hiền hậu” có nghĩa là gì?</title>
+        <a>Thông minh</a>
+        <b>Hiếu thảo</b>
+        <c>Hiền lành, tốt bụng</c>
+        <d>Nhanh nhẹn</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title>Câu nào sau đây là câu ghép?</title>
+        <a>Tôi đi học.</a>
+        <b>Trời mưa to.</b>
+        <c>Tôi học giỏi và em tôi cũng học giỏi.</c>
+        <d>Con mèo nằm ngủ.</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title>Từ “bất ngờ” thuộc loại từ nào?</title>
+        <a>Danh từ</a>
+        <b>Động từ</b>
+        <c>Tính từ</c>
+        <d>Trạng từ</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Nghĩa của từ 'kiên trì' là gì?</title>
+        <a>Hay nổi giận</a>
+        <b>Bền bỉ theo đuổi đến cùng</b>
+        <c>Lười biếng</c>
+        <d>Làm việc nhanh</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ đồng nghĩa với “chăm chỉ”?</title>
+        <a>Lười biếng</a>
+        <b>Siêng năng</b>
+        <c>Buồn chán</c>
+        <d>Vui vẻ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ trái nghĩa với “cao”?</title>
+        <a>Rộng</a>
+        <b>Dài</b>
+        <c>Thấp</c>
+        <d>Lớn</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Từ “gian nan” có nghĩa là gì?</title>
+        <a>Dễ dàng</a>
+        <b>Khó khăn, thử thách</b>
+        <c>Vui vẻ</c>
+        <d>Buồn chán</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Trong câu “Em bé đang ngủ”, từ nào là động từ?</title>
+        <a>em</a>
+        <b>bé</b>
+        <c>đang</c>
+        <d>ngủ</d>
+        <answer>d</answer>
+    </question>
+    <question>
+        <title> Từ nào sau đây là danh từ?</title>
+        <a>đi</a>
+        <b>đẹp</b>
+        <c>cái bàn</c>
+        <d>nhanh</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Từ “nhanh chóng” thuộc loại từ nào?</title>
+        <a>Danh từ</a>
+        <b>Động từ</b>
+        <c>Trạng từ</c>
+        <d>Tính từ</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Từ “nô nức” là từ gì?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ đồng nghĩa với “thông minh”?</title>
+        <a>ngu ngốc</a>
+        <b>lanh lợi</b>
+        <c>lười biếng</c>
+        <d>hiền lành</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Trong từ “học sinh”, từ nào là gốc?</title>
+        <a>học</a>
+        <b>sinh</b>
+        <c>học sinh</c>
+        <d>học tập</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ nào sau đây là từ đơn?</title>
+        <a>học tập</a>
+        <b>đi học</b>
+        <c>học</c>
+        <d>học trò</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Trong các từ sau, từ nào là động từ?</title>
+        <a>xinh đẹp</a>
+        <b>chạy</b>
+        <c>ghế đá</c>
+        <d>nắng vàng</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ “hi vọng” thuộc loại từ nào?</title>
+        <a>Động từ</a>
+        <b>Danh từ</b>
+        <c>Tính từ</c>
+        <d>Trạng từ</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ trái nghĩa với “lười biếng”?</title>
+        <a>chăm chỉ</a>
+        <b>thông minh</b>
+        <c>nhanh nhẹn</c>
+        <d>khéo léo</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Câu nào là câu cảm?</title>
+        <a>Tôi đi học.</a>
+        <b>Trời ơi! Tuyệt quá!</b>
+        <c>Con mèo đang ngủ.</c>
+        <d>Bạn Nam học bài.</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ “lấp lánh” là từ gì?</title>
+        <a>Từ láy</a>
+        <b>Từ ghép</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Thành ngữ nào diễn tả sự đoàn kết?</title>
+        <a>Đầu voi đuôi chuột</a>
+        <b>Một cây làm chẳng nên non</b>
+        <c>Ăn cây nào rào cây nấy</c>
+        <d>Mèo khen mèo dài đuôi</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Câu nào là câu cầu khiến?</title>
+        <a>Bạn giúp mình với!</a>
+        <b>Hôm nay trời đẹp.</b>
+        <c>Tôi đang ăn cơm.</c>
+        <d>Nam học rất giỏi.</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ đồng âm?</title>
+        <a>bàn (cái bàn) - bàn (bàn bạc)</a>
+        <b>bàn - ghế</b>
+        <c>học - hành</c>
+        <d>vui - buồn</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ “rộn ràng” thuộc loại từ nào?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Câu nào là câu kể?</title>
+        <a>Chà! Trời đẹp quá!</a>
+        <b>Hãy đi học đúng giờ.</b>
+        <c>Tôi là học sinh lớp 5.</c>
+        <d>Chúng mình cùng đi nào!</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Từ “lung linh” thuộc loại từ nào?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Câu nào có trạng ngữ?</title>
+        <a>Nam đi học.</a>
+        <b>Sáng nay, Nam đi học sớm.</b>
+        <c>Bạn Nam học giỏi.</c>
+        <d>Chúng em đang chơi.</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào chỉ đặc điểm?</title>
+        <a>cao</a>
+        <b>bàn</b>
+        <c>đi</c>
+        <d>ngủ</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ “thấp thoáng” là từ gì?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ “rầm rộ” thuộc loại từ nào?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ chỉ hoạt động?</title>
+        <a>chạy</a>
+        <b>đẹp</b>
+        <c>cái bàn</c>
+        <d>nhanh</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ nào có nghĩa trái ngược với từ “đẹp”?</title>
+        <a>đẹp</a>
+        <b>xấu</b>
+        <c>tốt</c>
+        <d>đúng</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Trong câu “Em bé khóc to”, từ nào là trạng từ?</title>
+        <a>Em bé</a>
+        <b>khóc</b>
+        <c>to</c>
+        <d>khóc to</d>
+        <answer>c</answer>
+    </question>
+    <question>
+        <title> Từ “hăng hái” thuộc loại từ nào?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Câu nào có chủ ngữ là “Chúng tôi”?</title>
+        <a>Chúng tôi đang học.</a>
+        <b>Bạn ấy rất giỏi.</b>
+        <c>Trời hôm nay đẹp.</c>
+        <d>Em thích đọc sách.</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ “vội vàng” thuộc loại từ nào?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào sau đây là từ đơn?</title>
+        <a>trường học</a>
+        <b>đẹp</b>
+        <c>đi học</c>
+        <d>tập thể</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ “nhanh nhẹn” là từ gì?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ láy?</title>
+        <a>cáo</a>
+        <b>lấp lánh</b>
+        <c>hoa</c>
+        <d>mèo</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Trong câu “Bố tôi đi làm”, từ “đi” là loại từ gì?</title>
+        <a>Danh từ</a>
+        <b>Động từ</b>
+        <c>Tính từ</c>
+        <d>Trạng từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào sau đây là từ ghép?</title>
+        <a>mặt trời</a>
+        <b>đẹp</b>
+        <c>chạy</c>
+        <d>nhanh</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ “lặng lẽ” thuộc loại từ nào?</title>
+        <a>Từ láy</a>
+        <b>Từ ghép</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ đồng nghĩa với “vui vẻ”?</title>
+        <a>buồn</a>
+        <b>hạnh phúc</b>
+        <c>khó chịu</c>
+        <d>buồn bã</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ “học sinh” là từ gì?</title>
+        <a>Từ đơn</a>
+        <b>Từ ghép</b>
+        <c>Từ láy</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào là từ trái nghĩa với “to lớn”?</title>
+        <a>nhỏ bé</a>
+        <b>rộng</b>
+        <c>dài</c>
+        <d>cao</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Câu nào là câu hỏi?</title>
+        <a>Bạn có khỏe không?</a>
+        <b>Tôi đi học.</b>
+        <c>Trời hôm nay đẹp.</c>
+        <d>Bạn học giỏi.</d>
+        <answer>a</answer>
+    </question>
+    <question>
+        <title> Từ “vui tươi” thuộc loại từ nào?</title>
+        <a>Từ ghép</a>
+        <b>Từ láy</b>
+        <c>Danh từ</c>
+        <d>Động từ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ “chăm chỉ” có nghĩa là gì?</title>
+        <a>Lười biếng</a>
+        <b>Siêng năng, cần mẫn</b>
+        <c>Khó tính</c>
+        <d>Vui vẻ</d>
+        <answer>b</answer>
+    </question>
+    <question>
+        <title> Từ nào sau đây là từ láy?</title>
+        <a>to lớn</a>
+        <b>rầm rộ</b>
+        <c>trường học</c>
+        <d>chạy nhanh</d>
+        <answer>b</answer>
+    </question>
+</questions>

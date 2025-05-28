@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Tiếng Việt-->
+    <string name="app_name">FirstApplication</string>
+    <string name="login">Đăng nhập</string>
+    <string name="username">Tên đăng nhập/Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="regiter">Đăng kí</string>
+    <string name="language">English</string>
+    <string name="err">Tên đăng nhập/Email hoặc mật khẩu không đúng</string>
+    <string name="commit">Tôi sẽ pass môn PRN392</string>
+    <string name="re_password">Nhập lại mật khẩu</string>
+</resources>

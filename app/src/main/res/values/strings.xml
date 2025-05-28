@@ -1,0 +1,12 @@
+<resources>
+    <!--    English-->
+    <string name="app_name">FirstApplication</string>
+    <string name="login">Login</string>
+    <string name="username">UserName/Email</string>
+    <string name="password">Password</string>
+    <string name="regiter">Register</string>
+    <string name="language">Tiếng Việt</string>
+    <string name="err">UserName/Email or password is incorrect</string>
+    <string name="commit">I commit pass PRN392 with score greater than 9</string>
+    <string name="re_password">Confirm password</string>
+</resources>

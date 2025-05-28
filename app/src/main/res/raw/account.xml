@@ -1,0 +1,7 @@
+<accounts>
+    <account username="user1" password="pass1"/>
+    <account username="user2" password="pass2"/>
+    <account username="user3" password="pass3"/>
+    <account username="user4" password="pass4"/>
+    <account username="user5" password="pass5"/>
+</accounts>
