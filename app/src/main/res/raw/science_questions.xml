@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <title>Nước sôi ở bao nhiêu độ C?</title>
+        <a>50</a>
+        <b>75</b>
+        <c>90</c>
+        <d>100</d>
+        <answer>d</answer>
+    </question>
+
+    <question>
+        <title>Hành tinh nào gần Mặt Trời nhất?</title>
+        <a>Earth</a>
+        <b>Venus</b>
+        <c>Mercury</c>
+        <d>Mars</d>
+        <answer>c</answer>
+    </question>
+
+    <question>
+        <title>Chất nào sau đây là chất rắn?</title>
+        <a>Nước</a>
+        <b>Không khí</b>
+        <c>Đá</c>
+        <d>Hơi nước</d>
+        <answer>c</answer>
+    </question>
+
+    <question>
+        <title>Thực vật tạo ra khí gì trong quá trình quang hợp?</title>
+        <a>Carbon dioxide</a>
+        <b>Oxygen</b>
+        <c>Hydrogen</c>
+        <d>Nitrogen</d>
+        <answer>b</answer>
+    </question>
+
+    <question>
+        <title>Cơ quan nào trong cơ thể người giúp bơm máu?</title>
+        <a>Phổi</a>
+        <b>Dạ dày</b>
+        <c>Gan</c>
+        <d>Tim</d>
+        <answer>d</answer>
+    </question>
+</questions>

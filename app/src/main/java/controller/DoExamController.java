@@ -34,7 +34,7 @@ public class DoExamController extends AppCompatActivity {
     private TextView tvQuestionNumber, tvQuestionText, tvScore, tvMark;
     private RadioGroup rgOptions;
     private RadioButton[] optionButtons = new RadioButton[4];
-    private Button btnNext, btnPrevious, btnSubmit, btnExit;
+    private Button btnNext, btnPrevious, btnSubmit, btnExit, btnRetake;
 
     private List<Question> questions = new ArrayList<>();
     private int currentIndex = 0;
@@ -46,10 +46,12 @@ public class DoExamController extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_do_exam);
 
+        Intent intent = getIntent();
         int numQuestions = getIntent().getIntExtra("numQuestions", 5);
+        String subjectName = intent.getStringExtra("subjectName");
 
         bindViews();
-        loadQuestions(numQuestions);
+        loadQuestions(numQuestions, subjectName);
         showQuestion(currentIndex);
 
         btnNext.setOnClickListener(v -> {
@@ -108,12 +110,18 @@ public class DoExamController extends AppCompatActivity {
                 currentIndex = 0;
                 showQuestion(currentIndex);
                 btnSubmit.setVisibility(View.GONE);
+                btnRetake.setVisibility(View.VISIBLE);
             }
+        });
+
+        btnRetake.setOnClickListener(v ->{
+            startActivity(new Intent(this, ExamController.class));
+            finish();
         });
 
 
         btnExit.setOnClickListener(v -> {
-            startActivity(new Intent(this, ExamController.class));
+            startActivity(new Intent(this, LoginController.class));
             finish();
         });
     }
@@ -132,6 +140,7 @@ public class DoExamController extends AppCompatActivity {
         btnPrevious = findViewById(R.id.btnPrevious);
         btnSubmit = findViewById(R.id.btnSubmit);
         btnExit = findViewById(R.id.btnExit);
+        btnRetake = findViewById(R.id.btnRetake);
     }
 
     private void showQuestion(int index) {
@@ -182,9 +191,34 @@ public class DoExamController extends AppCompatActivity {
         }
     }
 
-    private void loadQuestions(int limit) {
+    private void loadQuestions(int limit, String subjectName) {
         try {
-            InputStream is = getResources().openRawResource(R.raw.questions);
+            // Map subject name to raw resource ID
+            int xmlResId;
+            switch (subjectName.toLowerCase()) {
+                case "math":
+                    xmlResId = R.raw.math_questions;
+                    break;
+                case "english":
+                    xmlResId = R.raw.english_questions;
+                    break;
+                case "science":
+                    xmlResId = R.raw.science_questions;
+                    break;
+                case "vietnamese":
+                    xmlResId = R.raw.questions; // assuming Vietnamese is default
+                    break;
+                default:
+                    // If subject name unknown, fallback to default questions
+                    xmlResId = R.raw.questions;
+                    break;
+            }
+
+            // Clear old questions
+            questions.clear();
+
+            // Load XML file
+            InputStream is = getResources().openRawResource(xmlResId);
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             Document doc = builder.parse(is);
             NodeList nodeList = doc.getElementsByTagName("question");
@@ -203,11 +237,14 @@ public class DoExamController extends AppCompatActivity {
             }
 
             Collections.shuffle(questions);
+
             if (questions.size() > limit) {
                 questions = questions.subList(0, limit);
             }
+
         } catch (Exception e) {
             Toast.makeText(this, "Error loading questions: " + e.getMessage(), Toast.LENGTH_LONG).show();
         }
     }
+
 }

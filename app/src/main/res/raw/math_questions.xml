@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <title>2 + 3 bằng bao nhiêu?</title>
+        <a>4</a>
+        <b>5</b>
+        <c>6</c>
+        <d>7</d>
+        <answer>b</answer>
+    </question>
+
+    <question>
+        <title>Phân số nào bằng 1/2?</title>
+        <a>2/4</a>
+        <b>3/5</b>
+        <c>4/8</c>
+        <d>Cả a và c</d>
+        <answer>d</answer>
+    </question>
+
+    <question>
+        <title>Góc vuông có bao nhiêu độ?</title>
+        <a>45 độ</a>
+        <b>90 độ</b>
+        <c>180 độ</c>
+        <d>360 độ</d>
+        <answer>b</answer>
+    </question>
+
+    <question>
+        <title>12 chia 3 bằng mấy?</title>
+        <a>2</a>
+        <b>3</b>
+        <c>4</c>
+        <d>5</d>
+        <answer>c</answer>
+    </question>
+
+    <question>
+        <title>5 x 6 bằng bao nhiêu?</title>
+        <a>30</a>
+        <b>25</b>
+        <c>20</c>
+        <d>35</d>
+        <answer>a</answer>
+    </question>
+</questions>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <title>Từ nào sau đây là danh từ?</title>
+        <a>beautiful</a>
+        <b>quickly</b>
+        <c>happiness</c>
+        <d>run</d>
+        <answer>c</answer>
+    </question>
+
+    <question>
+        <title>Từ nào có nghĩa là "con mèo" trong tiếng Anh?</title>
+        <a>cat</a>
+        <b>dog</b>
+        <c>mouse</c>
+        <d>cow</d>
+        <answer>a</answer>
+    </question>
+
+    <question>
+        <title>What is the opposite of "happy"?</title>
+        <a>glad</a>
+        <b>sad</b>
+        <c>angry</c>
+        <d>excited</d>
+        <answer>b</answer>
+    </question>
+
+    <question>
+        <title>Chọn câu đúng ngữ pháp:</title>
+        <a>She go to school everyday.</a>
+        <b>She goes to school everyday.</b>
+        <c>She going to school everyday.</c>
+        <d>She gone to school everyday.</d>
+        <answer>b</answer>
+    </question>
+
+    <question>
+        <title>Từ "quick" là loại từ gì?</title>
+        <a>noun</a>
+        <b>verb</b>
+        <c>adjective</c>
+        <d>adverb</d>
+        <answer>c</answer>
+    </question>
+</questions>

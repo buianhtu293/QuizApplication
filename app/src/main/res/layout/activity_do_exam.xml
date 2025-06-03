@@ -128,6 +128,17 @@
                 android:backgroundTint="#7B5BE3"
                 android:textColor="#FFFFFF"
                 android:layout_margin="8dp"/>
+
+            <Button
+                android:id="@+id/btnRetake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Retake"
+                android:backgroundTint="#7B5BE3"
+                android:textColor="#FFFFFF"
+                android:layout_margin="8dp"
+                android:visibility="gone"
+                />
         </LinearLayout>
 
         <Button
